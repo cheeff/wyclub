@@ -1,0 +1,28 @@
+{
+  "name": "Ping Pong Club",
+  "imgsrc": "science.png",
+  "description": "Students can come to play ping pong for fun, however there will be a comptitive team, which will compete against other schools as a winter sport. Anyone is welcome to tryout; if you are interested please email the email linked on the picture!",
+  "officers": [
+    {
+      "position": "Team email",
+      "name": "WYPingPong@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Trine"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Meetings take place Fridays from 3:25 to 5:00 after school in Gold House."
+    }
+  ],
+  "links": [
+    {
+      "title": "",
+      "link": ""
+    }
+  ]
+}
